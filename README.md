@@ -16,9 +16,13 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + Mikey and Ben Introduce the Animated Lamp Section.
 + Mikey gives a quick run through of what is coming up in the next section.
 
-### Animation Design Document
+### 2 Animation Design Document
 
-### Focus On What's Important
+### 3 Scene and Asset Design
+
+### 4 Introduction To The Grease Pencil
+
+### 5 Workflow Choices
 
 + We are going to do many iterations though to the end, even though the lamp won't be built fully!
 + Later on rendering times are likely to be longer that the last section.
@@ -32,13 +36,13 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 ### Cycles Vs Eevee
 
-+ Blender Render is generally quick and you get a reasonable result quickly. - Uses CPU Only.
++ Eevee is generally quick and you get a reasonable result quickly. - Uses CPU Only.
 + Cycles is a physical based renderer is accurate but takes longer. It is designed for GPUs but runs fine on CPUs.
 
 **Why Use Cycles?**
 
 + We are going to use Cycles, since we are modelling a lamp!
-+ The two are not cross compatible, no switching.
++ The two are cross compatible, Light is different.
 + You can use other Renderers too, if you have access to them. We won't be covering these.
 
 **Render Time Difference**
@@ -62,17 +66,14 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + You may hit memory issues if using a GPU.
 + If in doubt or having trouble switch to CPU rendering.
 
-### Lighting Cycles Vs Eevee
+### 8 Cycles On A Mac
 
-+ Lighting is nearly always darker in Eevee.
-+ How to create a light source as geometry and then apply an emissive material to that object- something not possible in Eevee.
++ Use the CPU
++ Apple depracated Open GL / Open CL support in 2018
++ No time time on Apple being more inclusive
++ Nvidia used to be a viable option, that is no longer the case.
 
-### Reflections Cycles Vs Eevee 
-+ Reflection are another thing that are less accurate in Eevee.
-+ Reflections in Cycles are fully calculated,
-
-
-### Dedicated Graphics Cards
+### 9 Dedicated Graphics Cards
 
 + Cycles runs with AMD and nVidia Cards.
 + Install the latest drivers for your GPU.
@@ -85,17 +86,27 @@ Setup Blender For GPU Rending
 + You may find that your GPU is **slower** than your CPU at rendering.
 + Your CPU is free to do other things…
 
-### Lowering Your Cycles Render Time
+### 10 Lighting Cycles Vs Eevee
+
++ Lighting is nearly always darker in Eevee.
++ How to create a light source as geometry and then apply an emissive material to that object- something not possible in Eevee.
+
+### 11 Reflections Cycles Vs Eevee 
++ Reflection are another thing that are less accurate in Eevee.
++ Reflections in Cycles are fully calculated,
+
+### 12 Lowering Your Cycles Render Time
 
 + How to change your Render settings.
 + You will have to run multiple tests.
 + Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
 
-### Rendering A Small Area
+### 13 Rendering A Small Area
 
 + Show you how to render just a part of your scene.
 + Great for those with slower machines.
 + Great for complex Scenes on ANY computer.
++ CAUTION ALT + B (view clipping)
 
 ### Using Curves To Generate Geometry
 
@@ -270,6 +281,8 @@ Setup Blender For GPU Rending
 
 + Export the model and test it.
 + Just watch if you don’t have Unity or Unreal installed so you can see the process.
+
+### BONUS SETTING UP A RENDER FARM
 
 ### End of Section 5 Wrap Up
 
