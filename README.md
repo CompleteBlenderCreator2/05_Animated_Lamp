@@ -34,9 +34,11 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + Create a basic environment for our lamp.
 + Run through a couple of options.
 
+### 7 Making The Gease Pencil Real
+
 ### Cycles Vs Eevee
 
-+ Eevee is generally quick and you get a reasonable result quickly. - Uses CPU Only.
++ Eevee is generally quick and you get a reasonable results quickly. - Uses CPU Only.
 + Cycles is a physical based renderer is accurate but takes longer. It is designed for GPUs but runs fine on CPUs.
 
 **Why Use Cycles?**
