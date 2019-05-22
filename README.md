@@ -28,7 +28,7 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + Later on rendering times are likely to be longer that the last section.
 + We'll be making and testing the Lamp as we go.
 
-### Creating A Backdrop
+### 6 Creating A Backdrop
 
 + Decide on a scale.
 + Create a basic environment for our lamp.
