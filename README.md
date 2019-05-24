@@ -97,18 +97,18 @@ Setup Blender For GPU Rending
 + Reflection are another thing that are less accurate in Eevee.
 + Reflections in Cycles are fully calculated,
 
-### 13 Lowering Your Cycles Render Time
-
-+ How to change your Render settings.
-+ You will have to run multiple tests.
-+ Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
-
-### 14 Rendering A Small Area
+### 13 Rendering A Small Area
 
 + Show you how to render just a part of your scene.
 + Great for those with slower machines.
 + Great for complex Scenes on ANY computer.
 + CAUTION ALT + B (view clipping)
+
+### 14 Lowering Your Cycles Render Time
+
++ How to change your Render settings.
++ You will have to run multiple tests.
++ Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
 
 ### Using Curves To Generate Geometry
 
