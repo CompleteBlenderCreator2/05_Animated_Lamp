@@ -93,6 +93,7 @@ Setup Blender For GPU Rending
 + How to create a light source as geometry and then apply an emissive material to that object- something not possible in Eevee.
 
 ### 12 Reflections Cycles Vs Eevee 
+
 + Reflection are another thing that are less accurate in Eevee.
 + Reflections in Cycles are fully calculated,
 
