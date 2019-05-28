@@ -110,14 +110,7 @@ Setup Blender For GPU Rending
 + Changing the bézier handle type.
 + Generate a 3D object by defining curves.
 
-### 15 Creating Geometry From A Curve - not currently working
-
-+ Refresh our knowledge on this.
-+ Converting our curve object to a mesh object.
-+ We can then perform mesh operations on it.
-+ We can choose to delete the original curve data if we want to.
-
-### 16 Altering Curve Resolution
+### 15 Altering Curve Resolution
 
 + Culling Unnecessary Geometry
 + We kept the curve data so have two options:
@@ -130,7 +123,9 @@ Setup Blender For GPU Rending
 + We'll be altering the curve resolution AND the mesh!
 + Tidy up the rest of our geometry.
 
-### Existing Geometry To Create New
+### 16 Coverting A Curve Obj To A Mesh Obj
+  
+### 17 Existing Geometry To Create New
 
 + Use an existing face to create a new face.
 + Separate immediately creating a new object.
