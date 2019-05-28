@@ -104,13 +104,7 @@ Setup Blender For GPU Rending
 + Great for complex Scenes on ANY computer.
 + CAUTION ALT + B (view clipping)
 
-### 14 Lowering Your Cycles Render Time
-
-+ How to change your Render settings.
-+ You will have to run multiple tests.
-+ Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
-
-### Using Curves To Generate Geometry
+### 14 Using Curves To Generate Geometry
 
 + Using curves makes it infinitely editable.
 + Changing the bézier handle type.
@@ -159,6 +153,12 @@ Setup Blender For GPU Rending
 + Learn how to use another object as the point of reflection.
 + Understand that it is the origin that acts as the point of reflection.
 + See other objects rotational values change the axes of reflection.
+
+### 14 Lowering Your Cycles Render Time
+
++ How to change your Render settings.
++ You will have to run multiple tests.
++ Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
 
 ### Adding Bones To Our Armature
 
