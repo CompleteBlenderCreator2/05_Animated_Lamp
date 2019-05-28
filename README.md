@@ -131,12 +131,7 @@ Setup Blender For GPU Rending
 + Separate immediately creating a new object.
 + This allows us to match up parts of our model, even when they're not exact sizes.
 
-### Design and Considerations
-
-+ Design a rough outline for the lamp.
-+ Make it believable as an object.
-+ I have chosen a simple and raw design.
-+ Remember It can always be beautified later on.
+### 18 Creating Sharper Edges
 
 ### Introduction to Armatures
 
