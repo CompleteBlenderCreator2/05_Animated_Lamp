@@ -133,6 +133,10 @@ Setup Blender For GPU Rending
 
 ### 18 Creating Sharper Edges
 
+Use Edge Split Modifier
+Adjust Mean Crease
+
+
 ### Introduction to Armatures
 
 + Learn about the armature object.
