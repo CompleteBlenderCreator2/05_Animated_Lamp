@@ -136,6 +136,11 @@ Setup Blender For GPU Rending
 Use Edge Split Modifier
 Adjust Mean Crease
 
+### 19 Lowering Your Cycles Render Times
+
++ How to change your Render settings.
++ You will have to run multiple tests.
++ Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
 
 ### Introduction to Armatures
 
@@ -148,11 +153,7 @@ Adjust Mean Crease
 + Understand that it is the origin that acts as the point of reflection.
 + See other objects rotational values change the axes of reflection.
 
-### 14 Lowering Your Cycles Render Time
 
-+ How to change your Render settings.
-+ You will have to run multiple tests.
-+ Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
 
 ### Adding Bones To Our Armature
 
