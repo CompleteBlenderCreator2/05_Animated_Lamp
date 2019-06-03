@@ -147,7 +147,7 @@ Adjust Mean Crease
 + Learn about the armature object.
 + Add an Armature to your model.
 
-### Revisiting the Mirror Modifier
+### 21 Revisiting the Mirror Modifier
 
 + Learn how to use another object as the point of reflection.
 + Understand that it is the origin that acts as the point of reflection.
