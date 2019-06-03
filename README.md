@@ -123,7 +123,7 @@ Setup Blender For GPU Rending
 + We'll be altering the curve resolution AND the mesh!
 + Tidy up the rest of our geometry.
 
-### 16 Coverting A Curve Obj To A Mesh Obj
+### 16 Converting A Curve Obj To A Mesh Obj
   
 ### 17 Existing Geometry To Create New
 
@@ -142,7 +142,7 @@ Adjust Mean Crease
 + You will have to run multiple tests.
 + Different scenes will have different characteristics depending on there complexity, but in general will follow a similar pattern.
 
-### Introduction to Armatures
+### 20 Introduction to Armatures
 
 + Learn about the armature object.
 + Add an Armature to your model.
