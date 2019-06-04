@@ -155,7 +155,7 @@ Adjust Mean Crease
 
 
 
-### Adding Bones To Our Armature
+### 22 Adding Bones To Our Armature
 
 + Learn how to add additional bones to an armature.
 + Understand that a new bone does not have to be connected to the previous one.
