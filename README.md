@@ -160,7 +160,7 @@ Adjust Mean Crease
 + Learn how to add additional bones to an armature.
 + Understand that a new bone does not have to be connected to the previous one.
 
-### Applying Transforms With Animations
+### 23 Applying Transforms With Animations
 
 + Quick Reminder
 + If not done can have some very confusing issues
