@@ -166,7 +166,7 @@ Adjust Mean Crease
 + If not done can have some very confusing issues
 + Remember Edit mode for editing
 
-### Pose Mode
+### 24 Pose Mode
 
 + Be introduced to pose mode
 + Understand that we use this mode to test our models movement.
