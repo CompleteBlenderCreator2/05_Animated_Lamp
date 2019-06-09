@@ -153,8 +153,6 @@ Adjust Mean Crease
 + Understand that it is the origin that acts as the point of reflection.
 + See other objects rotational values change the axes of reflection.
 
-
-
 ### 22 Adding Bones To Our Armature
 
 + Learn how to add additional bones to an armature.
@@ -172,13 +170,13 @@ Adjust Mean Crease
 + Understand that we use this mode to test our models movement.
 + Know that this the best mode to be in to parent mesh objects to individual bones, and to make alterations.
 
-### Rest Position and Pose Position
+Rest Position and Pose Position
 
 + Understand the differences between rest position and pose position.
 + You can see the rest position when in edit mode.
 + How to clear the pose back to the rest state.
 
-### Constraining Bones Movement
+### 25 Constraining Bones Movement
 
 + Be able to lock movement to a single axis.
 + Constrain the degree of movement possible.
