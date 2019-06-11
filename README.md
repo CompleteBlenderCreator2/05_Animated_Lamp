@@ -185,7 +185,7 @@ Constrain the degree of movement possible.
 
 ### 27 The Screw Modifier
 
-### The Solidify Modifier
+### 28 The Solidify Modifier
 
 + Create a 3D object from just curves.
 + Give the new object thickness using the solidify modifier.
