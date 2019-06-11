@@ -92,7 +92,7 @@ Setup Blender For GPU Rending
 + Lighting is nearly always darker in Eevee.
 + How to create a light source as geometry and then apply an emissive material to that object- something not possible in Eevee.
 
-### 12 Reflections Cycles Vs Eevee 
+### 12 Reflections Cycles Vs Eevee
 
 + Reflection are another thing that are less accurate in Eevee.
 + Reflections in Cycles are fully calculated,
@@ -124,7 +124,7 @@ Setup Blender For GPU Rending
 + Tidy up the rest of our geometry.
 
 ### 16 Converting A Curve Obj To A Mesh Obj
-  
+
 ### 17 Existing Geometry To Create New
 
 + Use an existing face to create a new face.
@@ -155,36 +155,42 @@ Adjust Mean Crease
 
 ### 22 Adding Bones To Our Armature
 
-+ Learn how to add additional bones to an armature.
-+ Understand that a new bone does not have to be connected to the previous one.
+Learn how to add additional bones to an armature.
+Understand that a new bone does not have to be connected to the previous one.
 
 ### 23 Applying Transforms With Animations
 
-+ Quick Reminder
-+ If not done can have some very confusing issues
-+ Remember Edit mode for editing
+Quick Reminder
+If not done can have some very confusing issues
+Remember Edit mode for editing
 
 ### 24 Pose Mode
 
-+ Be introduced to pose mode
-+ Understand that we use this mode to test our models movement.
-+ Know that this the best mode to be in to parent mesh objects to individual bones, and to make alterations.
+Be introduced to pose mode
+Understand that we use this mode to test our models movement.
+Know that this the best mode to be in to parent mesh objects to individual bones, and to make alterations.
 
 Rest Position and Pose Position
 
-+ Understand the differences between rest position and pose position.
-+ You can see the rest position when in edit mode.
-+ How to clear the pose back to the rest state.
+Understand the differences between rest position and pose position.
+You can see the rest position when in edit mode.
+How to clear the pose back to the rest state.
 
 ### 25 Constraining Bones Movement
 
-+ Be able to lock movement to a single axis.
-+ Constrain the degree of movement possible.
+Be able to lock movement to a single axis.
+Constrain the degree of movement possible.
+
+### 26 The Lamp Upper Arm
+
+### The Screw Modifier
 
 ### The Solidify Modifier
 
 + Create a 3D object from just curves.
 + Give the new object thickness using the solidify modifier.
+
+### The Bevel Modifier
 
 ### Introduction To The Node Editor
 
@@ -210,7 +216,7 @@ Rest Position and Pose Position
 ### Auto IK Constraints
 
 + We have lost the use of our bone constraints
-+ Replace now with IK constraints instead 
++ Replace now with IK constraints instead
 
 ### The Timeline
 
