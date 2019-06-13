@@ -194,7 +194,7 @@ Constrain the degree of movement possible.
 
 ### 30 Finishing The Lamp Rig
 
-### Introduction To The Node Editor
+### 31 Introduction To The Node Editor
 
 + Open up the shader editor.
 + Create some basic materials.
