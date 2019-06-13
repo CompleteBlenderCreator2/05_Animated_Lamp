@@ -201,6 +201,8 @@ Constrain the degree of movement possible.
 + Apply these materials to our model.
 + See how adjustments in the node editor affect our model.
 
+### 32 Simple Worn Edges
+
 ### Lamps vs Emissive Materials In Cycles
 
 + Learn the differences between the two light sources when using the cycles engine.
