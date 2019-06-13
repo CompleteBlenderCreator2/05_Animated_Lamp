@@ -190,7 +190,7 @@ Constrain the degree of movement possible.
 + Create a 3D object from just curves.
 + Give the new object thickness using the solidify modifier.
 
-### The Bevel Modifier
+### 29 The Bevel Modifier
 
 ### Introduction To The Node Editor
 
