@@ -192,9 +192,11 @@ Constrain the degree of movement possible.
 
 ### 29 The Bevel Modifier
 
+### 30 Finishing The Lamp Rig
+
 ### Introduction To The Node Editor
 
-+ Open up the node editor.
++ Open up the shader editor.
 + Create some basic materials.
 + Apply these materials to our model.
 + See how adjustments in the node editor affect our model.
