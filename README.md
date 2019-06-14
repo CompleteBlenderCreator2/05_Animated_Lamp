@@ -209,7 +209,7 @@ Constrain the degree of movement possible.
 + Understand that there is time and place for both.
 + Use the blackbody node.
 
-### Auto Inverse Kinematics (IK)
+### 34 Auto Inverse Kinematics (IK)
 
 + Learn how to turn on Auto IK.
 + Realise that this is a starting point and not perfect!
