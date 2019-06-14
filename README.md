@@ -203,7 +203,7 @@ Constrain the degree of movement possible.
 
 ### 32 Simple Worn Edges
 
-### Lamps vs Emissive Materials In Cycles
+### 33 Lamps vs Emissive Materials In Cycles
 
 + Learn the differences between the two light sources when using the cycles engine.
 + Understand that there is time and place for both.
