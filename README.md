@@ -219,10 +219,11 @@ Constrain the degree of movement possible.
 
 ### 35 IK Control Bones
 
-### Auto IK Constraints
+### 36 Auto IK Constraints
 
 + We have lost the use of our bone constraints
 + Replace now with IK constraints instead
+
 
 ### The Timeline
 
