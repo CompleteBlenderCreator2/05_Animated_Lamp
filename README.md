@@ -217,6 +217,8 @@ Constrain the degree of movement possible.
 + See that it allows us to control the connected bones all at once.
 + Auto IK ignores any existing bone constraints
 
+### 35 IK Control Bones
+
 ### Auto IK Constraints
 
 + We have lost the use of our bone constraints
