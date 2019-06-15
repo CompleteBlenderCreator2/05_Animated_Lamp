@@ -224,6 +224,7 @@ Constrain the degree of movement possible.
 + We have lost the use of our bone constraints
 + Replace now with IK constraints instead
 
+### 37 IK Limits
 
 ### The Timeline
 
