@@ -226,7 +226,7 @@ Constrain the degree of movement possible.
 
 ### 37 IK Limits
 
-### The Timeline
+### 38 The Timeline
 
 + Be introduced to the timeline
 + Shown how to adjust the playback and rendering range.
