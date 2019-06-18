@@ -239,6 +239,9 @@ Constrain the degree of movement possible.
 + Realise almost everything can be keyframed.
 + Be able to use key frames to animate your lamp.
 
+### 40 Auto Keyframing
+
+
 ### The Dope Sheet
 ### The Graph Editor
 
