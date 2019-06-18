@@ -232,7 +232,7 @@ Constrain the degree of movement possible.
 + Shown how to adjust the playback and rendering range.
 + How to alter the Frames Per Second (FPS) of your animation.
 
-### Key Frames
+### 39 Key Frames
 
 + Understand what they are and how they are used.
 + Be shown how to automatically add them and remove them from the Timeline view.
